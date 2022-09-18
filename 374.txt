@@ -1,0 +1,51 @@
+		-: WELCOME :-
+
+ Bill Number : 374
+ Customer Name : A D
+ Phone Number : 8337077543
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+ Products		 Quantity		 Price
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+ Soap		  1		  40
+ Lotions		  1		  40
+ Cream		  1		  40
+ Powder		  1		  40
+ Hair Gel		  1		  40
+ Perfume		  1		  40
+ Body Oil		  1		  40
+ Pepsi		  1		  40
+ Sprite		  1		  40
+ Limca		  1		  40
+ Fizz		  1		  40
+ Mazza		  1		  40
+ Fanta		  1		  40
+ Appy		  1		  40
+ Rice		  1		  40
+ Wheat		  1		  40
+ Oil		  1		  40
+ Sugar		  1		  40
+ Tea		  1		  40
+ Salt		  1		  40
+ Spice		  1		  40
+ Shirt		  1		  40
+ Jeans		  1		  40
+ Top		  1		  40
+ Skirt		  1		  40
+ Pants		  1		  40
+ Belt		  1		  40
+ Saree		  1		  40
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+ Cosmetic TAX   :				Rs/- 50.4
+ Cold Drink TAX :				Rs/- 50.4
+ Grocery TAX    :				Rs/- 50.4
+ Cloths TAX     :				Rs/- 50.4
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+ Total Bill     :				Rs/- 1321.6

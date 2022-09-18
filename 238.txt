@@ -1,0 +1,51 @@
+		-: WELCOME :-
+
+ Bill Number : 238
+ Customer Name : D P
+ Phone Number : 7044600194
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+ Products		 Quantity		 Price
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+ Soap		  2		  80
+ Lotions		  2		  80
+ Cream		  2		  80
+ Powder		  2		  80
+ Hair Gel		  2		  80
+ Perfume		  2		  80
+ Body Oil		  2		  80
+ Pepsi		  2		  80
+ Sprite		  2		  80
+ Limca		  2		  80
+ Fizz		  2		  80
+ Mazza		  2		  80
+ Fanta		  2		  80
+ Appy		  2		  80
+ Rice		  2		  80
+ Wheat		  2		  80
+ Oil		  2		  80
+ Sugar		  2		  80
+ Tea		  2		  80
+ Salt		  2		  80
+ Spice		  2		  80
+ Shirt		  2		  80
+ Jeans		  2		  80
+ Top		  2		  80
+ Skirt		  2		  80
+ Pants		  2		  80
+ Belt		  2		  80
+ Saree		  2		  80
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+ Cosmetic TAX   :				Rs/- 100.8
+ Cold Drink TAX :				Rs/- 100.8
+ Grocery TAX    :				Rs/- 100.8
+ Cloths TAX     :				Rs/- 100.8
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+ Total Bill     :				Rs/- 2643.2
